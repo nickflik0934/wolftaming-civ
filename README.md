@@ -1,4 +1,7 @@
 # Wolftaming
+Any and all credits go to the righteous creator and owner of the mod G3rste.
+This is simply a fork for the potential adjustment for the Return of the Civ server
+
 This mod is aiming at making the wolfes in Vintage Story tameable and useful companions to the player.
 
 To tame a wolf, you need to give a bone to a wolf pup and thereby initiate the taming process.</br>
