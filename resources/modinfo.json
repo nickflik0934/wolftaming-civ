@@ -1,13 +1,15 @@
 {
     "type": "code",
-    "modid": "wolftaming",
-    "name": "Wolf taming",
+    "modid": "wolftamingciv",
+    "name": "Wolf taming civ",
     "side": "universal",
     "authors": [
-        "G3rste"
+      "G3rste",
+      "nickflik0934",
+      "KingOfTheMochas"
     ],
     "description": "Mod that focuses on making wolves tameable and usable by the player.",
-    "version": "1.7.2",
+    "version": "1.0.0",
     "dependencies": {
         "game": "1.18.0",
         "petai": "1.7.0"
